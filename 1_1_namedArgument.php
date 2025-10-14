@@ -19,5 +19,6 @@ sayHello(middleName:"Owen", firstName:"Baguete", lastName:"Jelman");
 // Salah satu keuntungan menggunakan Named Argument: 
 // Ketika kita bikin Default Argument
 
+// Lanjut ke 1_2_ (alias 1.2. Named Argument with Default Value)
 
 ?>
